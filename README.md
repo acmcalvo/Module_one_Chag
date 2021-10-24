@@ -85,10 +85,3 @@ Css code with changes
 6. Video of proyect show functionality of the assigment:
 
 			https://watch.screencastify.com/v/hGiwjJ4PQauW79RzPe91		 
-
-
-
-<<<<<<< HEAD
-=======
-
->>>>>>> bec562b5e94f7905d51c43ab35c8e8c0db25e67f
