@@ -23,6 +23,14 @@ New code with changes
 2. Hero class, Section: In this section, div class changes to one unique class “contents,” 
 to improve Redundancy on the code, Add alt= “Alternative information” and meet accessibility standards CSS file changes:
 	class= content  to class= content-sections, class= SEO to class= contents
+		
+Html original code
+
+![hero-orig](https://user-images.githubusercontent.com/91921941/138599919-4305ea78-c85c-4a6b-b434-5940f73c262c.png)
+
+Html code whit changes
+
+<img width="740" alt="Hero with changes" src="https://user-images.githubusercontent.com/91921941/138599998-236f4f71-e935-4de7-82fb-5cf192a6f4b7.png">
 
 And there is only one set of descriptions that apply to the hero part (Html and CSS), and clean up the code.
 
