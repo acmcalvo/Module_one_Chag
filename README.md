@@ -35,3 +35,11 @@ Css code with changes
 
 <img width="670" alt="hero-css changes" src="https://user-images.githubusercontent.com/91921941/138599297-25478fec-26e9-4afd-a78e-ea844b64b02e.png">
 
+3. Benefits Section:
+
+ BenefitsThe welfare part is similar to the hero class, class, Created new class=“benefits-sections"
+Add alt text.
+Clear Css code to make it more efficient
+Html screenshot
+
+
