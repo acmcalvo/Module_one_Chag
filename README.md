@@ -49,7 +49,7 @@ Css code with changes
  BenefitsThe welfare part is similar to the hero class, class, 
  Created new class=“benefits-sections"
  Add alt text.
- Clear Css code to make it more efficient
+
  
  Html original  screenshot
  
@@ -60,8 +60,20 @@ Html Code with changes
 
 <img width="736" alt="html benefist with changes" src="https://user-images.githubusercontent.com/91921941/138599644-12e39557-b279-417f-9153-a3b1b7248604.png">
 
+ Clear Css code to make it more efficient
+
 Css original code
 
 <img width="796" alt="Benefis-1" src="https://user-images.githubusercontent.com/91921941/138600384-56bc6130-baf6-47cc-b001-105f67c63c6c.png">
+
+Css code with changes
+
+<img width="740" alt="Hero with changes" src="https://user-images.githubusercontent.com/91921941/138600452-1768d00f-fd2e-4b93-a435-0bf41c8ca45b.png">
+
+
+4. Github URL Link:      
+5. https://github.com/acmcalvo/Module_one_Chag.git
+
+
 
 
