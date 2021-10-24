@@ -56,7 +56,12 @@ Css code with changes
  ![html benefist-org](https://user-images.githubusercontent.com/91921941/138599599-221a8fbc-33ff-4c01-9f21-68a71581d95d.png)
 
 
-Html Codw with changes
+Html Code with changes
 
 <img width="736" alt="html benefist with changes" src="https://user-images.githubusercontent.com/91921941/138599644-12e39557-b279-417f-9153-a3b1b7248604.png">
+
+Css original code
+
+<img width="796" alt="Benefis-1" src="https://user-images.githubusercontent.com/91921941/138600384-56bc6130-baf6-47cc-b001-105f67c63c6c.png">
+
 
