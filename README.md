@@ -20,7 +20,8 @@ New code with changes
 <img width="735" alt="header-with chang" src="https://user-images.githubusercontent.com/91921941/138598899-ecb2bf7b-1d05-4c7b-924e-b7a56c60892e.png">
 
  
-2. Hero class, Section: In this section, div class changes to one unique class “contents,” to improve Redundancy on the code, Add alt= “Alternative information” to meet accessibility standards CSS file changes:
+2. Hero class, Section: In this section, div class changes to one unique class “contents,” 
+to improve Redundancy on the code, Add alt= “Alternative information” and meet accessibility standards CSS file changes:
 	class= content  to class= content-sections, class= SEO to class= contents
 
 And there is only one set of descriptions that apply to the hero part (Html and CSS), and clean up the code.
@@ -37,9 +38,17 @@ Css code with changes
 
 3. Benefits Section:
 
- BenefitsThe welfare part is similar to the hero class, class, Created new class=“benefits-sections"
-Add alt text.
-Clear Css code to make it more efficient
-Html screenshot
+ BenefitsThe welfare part is similar to the hero class, class, 
+ Created new class=“benefits-sections"
+ Add alt text.
+ Clear Css code to make it more efficient
+ 
+ Html original  screenshot
+ 
+ ![html benefist-org](https://user-images.githubusercontent.com/91921941/138599599-221a8fbc-33ff-4c01-9f21-68a71581d95d.png)
 
+
+Html Codw with changes
+
+<img width="736" alt="html benefist with changes" src="https://user-images.githubusercontent.com/91921941/138599644-12e39557-b279-417f-9153-a3b1b7248604.png">
 
