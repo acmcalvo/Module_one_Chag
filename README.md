@@ -31,3 +31,7 @@ Original Code
 
 ![Hero- Css Orig](https://user-images.githubusercontent.com/91921941/138599149-0c98ea35-4fa6-4f4c-8c7c-9d523007947a.png)
 
+Css code with changes
+
+<img width="670" alt="hero-css changes" src="https://user-images.githubusercontent.com/91921941/138599297-25478fec-26e9-4afd-a78e-ea844b64b02e.png">
+
