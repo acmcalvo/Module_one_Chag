@@ -15,6 +15,8 @@ Replaced the div class under Body and replaced the header and ad Nav tags to kee
  
 ![Header-orig](https://user-images.githubusercontent.com/91921941/138597986-4ef69068-a5dc-4cf2-aea0-f733f030b919.png)
 
+New code with changes
 
+<img width="735" alt="header-with chang" src="https://user-images.githubusercontent.com/91921941/138598899-ecb2bf7b-1d05-4c7b-924e-b7a56c60892e.png">
 
  
