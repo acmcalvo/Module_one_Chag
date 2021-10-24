@@ -28,7 +28,7 @@ Html original code
 
 ![hero-orig](https://user-images.githubusercontent.com/91921941/138599919-4305ea78-c85c-4a6b-b434-5940f73c262c.png)
 
-Html code whit changes
+Html code whith changes
 
 <img width="740" alt="Hero with changes" src="https://user-images.githubusercontent.com/91921941/138599998-236f4f71-e935-4de7-82fb-5cf192a6f4b7.png">
 
